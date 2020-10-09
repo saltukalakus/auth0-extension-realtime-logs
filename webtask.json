@@ -1,6 +1,6 @@
 {
-  "title": "Real-time Webtask Logs",
-  "name": "auth0-extension-realtime-logs",
+  "title": "Saltuk's Real-time Webtask Logs",
+  "name": "saltuk-auth0-extension-realtime-logs",
   "version": "1.3.6",
   "preVersion": "1.3.5",
   "author": "Auth0, Inc",
